@@ -3,3 +3,7 @@
 function sayHey() {
     echo 'Hey!';
 }
+
+function sayHello() {
+    echo 'Hello!';
+}
