@@ -7,3 +7,5 @@ function sayHey() {
 function sayHello() {
     echo 'Hello!';
 }
+
+// new f;
